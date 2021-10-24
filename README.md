@@ -115,6 +115,12 @@ private fun setupAdapter() {
 You can see the detailed example of MultiTypeAdapter in app folder of the project.
 
 
+```groovy
+dependencies {
+    implementation 'com.github.azimutlabsmobile:MultiTypeAdapter:1.0.4'
+}
+```
+
 
 
 
